@@ -12,5 +12,5 @@ function happyHolidayTo(h,n){
 }
 
 function holidayCountdown(d,h){
-  
+  return(`It's ${d} until ${h}`)
 }
